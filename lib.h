@@ -1,1 +1,1 @@
-
+float numeri(float [],int);
